@@ -1,0 +1,5 @@
+Para crear la Base de Datos de Vehículos:
+
+*Copiar el contenido del archivo script.
+*Pegarlo en una nueva consulta en Management Studio SQL Server.
+*Ejecutar.
